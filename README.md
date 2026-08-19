@@ -130,6 +130,7 @@ Week7/
 
 ---
 
+```markdown
 ## 🎥 Demo Video
 
 A short demonstration of the project covering data extraction, transformation, loading, analysis, and ETL automation.
