@@ -113,23 +113,6 @@ An environment variable was used to securely access the API key, preventing sens
 
 ---
 
-## 📁 Project Structure
-
-```text
-Week7/
-│
-├── raw_weather_data.csv
-├── Cleaned_weather_data.csv
-├── Weather_ETL_Data.xlsx
-├── README.md
-│
-├── ETL Pipeline Script/
-│   └── weather_etl_pipeline.py
-│
-└── Week7_Weather_ETL.ipynb
-
----
-
 ```markdown
 ## 🎥 Demo Video
 
@@ -159,3 +142,20 @@ Data Analytics Intern | AnalystLab Africa
 
 - **🎥 Demo Video:** [Watch Demo](https://drive.google.com/file/d/1-u4PZorR_iHoQ51yc82NCquCIBm-nXbZ/view?usp=sharing)
 - **💼 LinkedIn:** www.linkedin.com/in/egbetolaolanrewaju
+
+---
+
+## 📁 Project Structure
+
+```text
+Week7/
+│
+├── raw_weather_data.csv
+├── Cleaned_weather_data.csv
+├── Weather_ETL_Data.xlsx
+├── README.md
+│
+├── ETL Pipeline Script/
+│   └── weather_etl_pipeline.py
+│
+└── Week7_Weather_ETL.ipynb
