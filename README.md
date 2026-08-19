@@ -113,7 +113,6 @@ An environment variable was used to securely access the API key, preventing sens
 
 ---
 
-```markdown
 ## 🎥 Demo Video
 
 A short demonstration of the project covering data extraction, transformation, loading, analysis, and ETL automation.
